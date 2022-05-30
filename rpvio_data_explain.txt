@@ -1,0 +1,6 @@
+1.ADVIO数据集
+	本身的精度只有亚米级，仅适用于对VIO算法粗略，长期的评估.
+2.OpenLORIS-Scene
+	由地面机器人捕捉获取，而没有足够的激励，导致不可观性
+3.Viode
+	 A simulated dataset to address the challenges of visual-inertial odometry in dynamic environments", IEEE Robotics and Automation Letters, pp. 1-1, 2021.
